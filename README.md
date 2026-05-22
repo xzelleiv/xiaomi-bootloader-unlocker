@@ -1,5 +1,5 @@
 # xiaomi-bootloader-unlocker
-
+released via cursor
 simple script to send timed unlock apply requests around beijing midnight reset.
 
 ## credit
